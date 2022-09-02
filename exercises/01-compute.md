@@ -58,7 +58,7 @@ Make sure to connect to each server before deleting it to ensure that it actuall
 
 ### `01.02` - Scale a Server
 
-Using your favorite tool, create a `flex-2` instance, then turn it into a `plus-8` instance.
+Using your favorite tool, create a `flex-4-1` instance, then turn it into a `plus-4-2` instance.
 
 ---
 
