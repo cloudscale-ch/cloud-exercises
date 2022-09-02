@@ -18,9 +18,11 @@ It is also possible to create a separate volume and copy an image there. This vo
 
 ### `05.01` - Ubuntu Cloud Image
 
-Upload an Ubuntu Cloud Image (e.g. `20.10`) as a custom image and use it to launch a new server (only possible via API at the time of writing):
+Upload an Ubuntu Cloud Image (e.g. `22.04`) as a custom image and use it to launch a new server:
 
 https://cloud-images.ubuntu.com/
+
+You can do this via API or through the control panel.
 
 ---
 
@@ -39,4 +41,3 @@ Using VirtualBox, create an image of your favorite Linux distribution (make sure
 ### `05.04` - Automatically Build a Custom Image (Advanced)
 
 Using Packer, create an image of your favorite Linux distribution (make sure to install cloud-init). Then import the image as a custom image and launch a new server using that custom image.
-
