@@ -52,7 +52,7 @@ Even though we offer a number of "off the shelf" images (like Ubuntu, Debian, or
 
 ### `06` [Load Balancers](./exercises/06-load-balancers.md)
 
-Modern deployments in general, and Kubernetes deployments in particluar, often employ load balancers to distribute load, improve uptime, and to increase security.
+Modern deployments in general, and Kubernetes deployments in particluar, often employ load balancers to distribute load, improve uptime, and increase security.
 
 Our load balancers are highly available, as they run in pairs on separate hosts. In addition to being manageable by API, Terraform, and Ansible, they also come with Cloud Controller Manager (CCM) integration. This means they can easily be integrated into Kubernetes.
 
