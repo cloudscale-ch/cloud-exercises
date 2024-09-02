@@ -50,6 +50,17 @@ Even though we offer a number of "off the shelf" images (like Ubuntu, Debian, or
 * `05.03` - [Manually Create a Custom Image (Advanced)](./exercises/05-custom-images.md#0503---manually-create-a-custom-image-advanced)
 * `05.04` - [Automatically Build a Custom Image (Advanced)](./exercises/05-custom-images.md#0504---automatically-build-a-custom-image-advanced)
 
+### `06` [Load Balancers](./exercises/06-load-balancers.md)
+
+Modern deployments in general, and Kubernetes deployments in particluar, often employ load balancers to distribute load, improve uptime, and increase security.
+
+Our load balancers are highly available, as they run in pairs on separate hosts. In addition to being manageable by API, Terraform, and Ansible, they also come with Cloud Controller Manager (CCM) integration. This means they can easily be integrated into Kubernetes.
+
+* `06.01` - [Load Balancer Components](./exercises/06-load-balancers.md#0601---load-balancer-components)
+* `06.02` - [Load Balancer](./exercises/06-load-balancers.md#0602---load-balancer)
+* `06.03` - [Load Balancer Firewall](./exercises/06-load-balancers.md#0603---load-balancer-firewall)
+* `06.04` - [Kubernetes with Cloudscale Cloud Controller Manager](./exercises/06-load-balancers.md#0604---kubernetes-with-cloudscale-cloud-controller-manager)
+
 ## Contributing
 
 If you have any questions, feedback, ideas, or if you want to contribute, feel free to [open an issue](../../issues).
