@@ -20,7 +20,7 @@ Our load balancers are highly available, as they run in pairs on separate hosts.
 
 ### `06.01` - Load Balancer Components
 
-Load balancers consist of various components, read the documentation to understand what these endpoints manage:
+Load balancers consist of various components. Read the documentation to understand what these endpoints manage:
 
 1. `/v1/load-balancer`
 2. `/v1/load-balancers/pools`
