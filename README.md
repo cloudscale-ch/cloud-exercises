@@ -25,6 +25,8 @@ Compute is nothing without state. In our case, state is a Ceph cluster with eith
 
 * `02.01` - [Add Additional Volumes](./exercises/02-storage.md#0201---add-additional-volumes)
 * `02.02` - [Scale A Volume](./exercises/02-storage.md#0202---scale-a-volume)
+* `02.03` - [Snapshot A Volume](./exercises/02-storage.md#0203---snapshot-a-root-volume)
+* `02.04` - [Snapshot Additional Volumes](./exercises/02-storage.md#0204---snapshot-a-non-root-volume)
 
 ### `03` [Network](./exercises/03-network.md)
 
