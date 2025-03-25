@@ -41,7 +41,7 @@ Hint: Click on the question mark in the Cloud Control Panel near each volume for
 
 ---
 
-### `02.03` - Snapshot A Root Volume
+### `02.03` - Snapshot A Volume
 
 > Please be aware: Snapshots do not serve as a substitute for backups.
 
